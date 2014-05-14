@@ -13,6 +13,6 @@ app.configure(function () {
 
 
 
-var httpServer = http.createServer(app).listen(process.env.port || port, function () {
+var httpServer = http.createServer(app).listen(process.env.PORT || port, function () {
   console.log('Article listening on port ' + port);
 });
