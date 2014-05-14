@@ -1,0 +1,214 @@
+$majorGridWidth: 100px;
+
+$maxWidth: $majorGridWidth * 10;
+$imageHeight: $majorGridWidth * 6;
+
+$buffer: 40px;
+$background: rgb(248, 248, 248);
+
+$fontSize-huge: 96px;
+$fontSize-large: 36px;
+$fontSize-small: 12px;
+$border: 1px solid darken(white, 15);
+
+$top: rgba(255, 255, 255, 0.0);
+$bottom: rgba(255, 255, 255, 0.8);
+
+$animation: 0.4s ease;
+
+@mixin transition ($t...) {
+  -webkit-transition: $t;
+  transition: $t;
+}
+
+html {
+  width: 100%;
+}
+
+body {
+  width: $maxWidth;
+  font-family: Helvetica Neue;
+  background-color: $background;
+  overflow-y: scroll;
+  div.article-container {
+    width: inherit;
+    padding: $buffer;
+    position: absolute; left: 0; right: 0; margin: auto;
+    background-color: white;
+    div.image-banner {
+      header {
+        width: $maxWidth;
+        height: $imageHeight !important;
+        background-size: $maxWidth $imageHeight;
+        div.title-container {
+          width: $maxWidth;
+          height: inherit;
+          color: white;
+          div.opacity-shield {
+            width: $maxWidth;
+            height: $imageHeight;
+            margin: 0; padding: 0;
+            position: absolute;
+            background: -webkit-gradient(linear, 0% 0%, 0% 100%, from($top), to($bottom));
+
+            /* Safari 5.1, Chrome 10+ */
+            background: -webkit-linear-gradient(top, $top, $bottom);
+
+            /* Firefox 3.6+ */
+            background: -moz-linear-gradient(top, $top, $bottom);
+
+            /* IE 10 */
+            background: -ms-linear-gradient(top, $top, $bottom);
+
+            /* Opera 11.10+ */
+            background: -o-linear-gradient(top, $top, $bottom);
+          }
+          div:not(.opacity-shield) {
+            right: $buffer * 2;
+          }
+          div.title {
+            width: inherit;
+            top: $maxWidth * 0.42;
+            position: absolute;
+            font-size: $fontSize-huge;
+            text-align: right;
+            font-weight: 100;
+            letter-spacing: 1px;
+          }
+          div.subtitle {
+            text-align: right;
+            width: inherit;
+            font-weight: 100;
+            font-size: $fontSize-large;
+            letter-spacing: 1px;
+            top: $maxWidth * 0.55;
+            position: absolute;
+          }
+        }
+      }
+      div.caption {
+        color: gray;
+        line-height: 1.5;
+        font-size: $fontSize-small;
+        padding-top: $buffer / 8;
+      }
+    }
+    div.graphic {
+      width: $maxWidth * 0.5;
+      height: auto;
+      margin-left: $maxWidth/4;
+      img {
+        width: inherit;
+        height: auto;
+      }
+      div.caption {
+        color: gray;
+        line-height: 1.5;
+        font-size: $fontSize-small;
+        padding-top: $buffer / 8;
+      }
+    }
+    section.normal-hidden {
+      div.hidden-section {
+        div.content {
+          height: $maxWidth * 0.34;
+        }
+      }
+    }
+    section {
+      width: inherit;
+      height: auto;
+      font-weight: 200;
+      padding-top: $majorGridWidth / 6;
+      &.section-hidden {
+        padding-top: 0px;
+      }
+      & > div.paragraph {
+        width: $maxWidth / 2;
+        margin-left: $maxWidth / 4;
+        display: inline-block;
+        overflow-y: hidden;
+        & > p {
+          line-height: 2;
+          width: 100%;
+        }
+        div.info {
+          position: absolute;
+          float: right;
+          left: $maxWidth * 0.85;
+          width: $majorGridWidth * 1.5;
+          height: auto;
+          margin-top: -100px;
+          p {
+            width: $majorGridWidth * 1.5;
+            color: gray;
+            line-height: 1.5;
+            font-size: $fontSize-small;
+          }
+        }
+      }
+      & > div.hidden-section {
+        width: $maxWidth + $buffer * 2;
+        margin-left: -$buffer;
+        div.content {
+          overflow: hidden;
+          background-color: $background;
+          @include transition(height $animation);
+          &.hidden {
+            height: 0;
+          }
+          p {
+            width: $maxWidth * 0.4;
+            float: left;
+            overflow-y: hidden;
+            text-overflow: ellipsis;
+            line-height: 1.5;
+            font-weight: 100;
+            padding: $buffer/2;
+            margin: 0;
+            display: inline-block;
+          }
+          img {
+            padding: $buffer / 2;
+            width: $maxWidth * 0.6;
+            height: $maxWidth * 0.3;
+            float: right;
+          }
+        }
+        div.substory {
+          color: gray;
+          width: $majorGridWidth * 2;
+          margin-top: -$majorGridWidth / 2;
+          margin-left: $buffer / 2;
+          padding-bottom: $buffer;
+          & > i, & > span {
+            color: inherit;
+          }
+          i {
+            float: left;
+            margin-top: -$majorGridWidth / 6;
+          }
+          span {
+            float: right;
+            width: $majorGridWidth * 1.5;
+            margin-top: -$majorGridWidth / 6;
+          }
+          cursor: pointer !important;
+          @include transition (color $animation);
+          &:hover {
+            color: blue;
+          }
+        }
+      }
+    }
+    section.iframe {
+      div.content {
+        height: $maxWidth * 0.53;
+        iframe {
+          width: $maxWidth + $buffer * 2;
+          height: inherit;
+        }
+      }
+    }
+  }
+}

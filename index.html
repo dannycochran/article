@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Local Warming</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+        <!-- iOS settings, see http://taylor.fausak.me/2013/11/01/ios-7-web-apps/ -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="stylesheet" href="assets/css/build.css">
+    </head>
+    <body>
+
+      <div class="article-container">
+      </div>
+
+      <script id="banner-template" type="text/template">
+        <div class="image-banner">
+          <header style="background-image:url('<%= img %>')">
+            <div class="title-container">
+              <% if (title) {%>
+                <div class="title"><%= title %></div>
+              <% } %>
+              <% if (subtitle) {%>
+                <div class="subtitle"><%= subtitle %></div>
+              <% } %>
+            </div>
+          </header>
+          <% if (caption) {%>
+            <div class="caption"><%= caption %></div>
+          <% } %>
+        </div>
+      </script>
+
+      <script id="section-template" type="text/template">
+        <section class="normal">
+          <% _.each(paragraphs, function(paragraph) { %>
+            <div class="paragraph">
+              <p><%= paragraph.content %></p>
+              <div class="info"></div>
+            </div>
+          <% }); %>
+        </section>
+      </script>
+
+      <script id="hidden-section-template" type="text/template">
+        <section class="section-hidden normal-hidden">
+          <div class="hidden-section">
+            <div class="substory">
+              <i class="fa fa-chevron-up"></i>
+              <span><%= substory %></span>
+            </div>
+            <div class="content hidden">
+              <p><%= content %></p>
+              <img src="<%= img %>"</img>
+            </div>
+          </div>
+        </section>
+      </script>
+
+      <script id="iframe-template" type="text/template">
+        <section class="section-hidden iframe">
+          <div class="hidden-section">
+            <div class="substory">
+              <i class="fa fa-chevron-up"></i>
+              <span><%= substory %></span>
+            </div>
+            <div class="content hidden">
+              <iframe src="<%= url %>"></iframe>
+            </div>
+          </div>
+        </section>
+      </script>
+
+      <script id="graphic-template" type="text/template">
+        <div class="graphic">
+          <img src="<%= img %>"></img>
+          <div class="caption"><%= caption %></div>
+        </div>
+      </script>
+
+      <script id="blurb-template" type="text/template">
+        <img src="<%= img %>"></img>
+        <p><%= info %></p>
+      </script>
+
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore.js"></script>
+      <script src="js/build.js"></script>
+
+    </body>
+</html>

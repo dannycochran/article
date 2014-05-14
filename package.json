@@ -1,0 +1,17 @@
+{
+  "name": "article",
+  "version": "0.0.0",
+  "description": "article",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "nicole sarto",
+  "license": "BSD",
+  "dependencies": {
+    "express": "3.x",
+    "http": "0.0.0"
+  }
+}

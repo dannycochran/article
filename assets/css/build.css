@@ -1,0 +1,153 @@
+html {
+  width: 100%; }
+
+body {
+  width: 1000px;
+  font-family: Helvetica Neue;
+  background-color: #f8f8f8;
+  overflow-y: scroll; }
+  body div.article-container {
+    width: inherit;
+    padding: 40px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: white; }
+    body div.article-container div.image-banner header {
+      width: 1000px;
+      height: 600px !important;
+      background-size: 1000px 600px; }
+      body div.article-container div.image-banner header div.title-container {
+        width: 1000px;
+        height: inherit;
+        color: white; }
+        body div.article-container div.image-banner header div.title-container div.opacity-shield {
+          width: 1000px;
+          height: 600px;
+          margin: 0;
+          padding: 0;
+          position: absolute;
+          background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(255, 255, 255, 0)), to(rgba(255, 255, 255, 0.8)));
+          /* Safari 5.1, Chrome 10+ */
+          background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8));
+          /* Firefox 3.6+ */
+          background: -moz-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8));
+          /* IE 10 */
+          background: -ms-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8));
+          /* Opera 11.10+ */
+          background: -o-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8)); }
+        body div.article-container div.image-banner header div.title-container div:not(.opacity-shield) {
+          right: 80px; }
+        body div.article-container div.image-banner header div.title-container div.title {
+          width: inherit;
+          top: 420px;
+          position: absolute;
+          font-size: 96px;
+          text-align: right;
+          font-weight: 100;
+          letter-spacing: 1px; }
+        body div.article-container div.image-banner header div.title-container div.subtitle {
+          text-align: right;
+          width: inherit;
+          font-weight: 100;
+          font-size: 36px;
+          letter-spacing: 1px;
+          top: 550px;
+          position: absolute; }
+    body div.article-container div.image-banner div.caption {
+      color: gray;
+      line-height: 1.5;
+      font-size: 12px;
+      padding-top: 5px; }
+    body div.article-container div.graphic {
+      width: 500px;
+      height: auto;
+      margin-left: 250px; }
+      body div.article-container div.graphic img {
+        width: inherit;
+        height: auto; }
+      body div.article-container div.graphic div.caption {
+        color: gray;
+        line-height: 1.5;
+        font-size: 12px;
+        padding-top: 5px; }
+    body div.article-container section.normal-hidden div.hidden-section div.content {
+      height: 340px; }
+    body div.article-container section {
+      width: inherit;
+      height: auto;
+      font-weight: 200;
+      padding-top: 16.66667px; }
+      body div.article-container section.section-hidden {
+        padding-top: 0px; }
+      body div.article-container section > div.paragraph {
+        width: 500px;
+        margin-left: 250px;
+        display: inline-block;
+        overflow-y: hidden; }
+        body div.article-container section > div.paragraph > p {
+          line-height: 2;
+          width: 100%; }
+        body div.article-container section > div.paragraph div.info {
+          position: absolute;
+          float: right;
+          left: 850px;
+          width: 150px;
+          height: auto;
+          margin-top: -100px; }
+          body div.article-container section > div.paragraph div.info p {
+            width: 150px;
+            color: gray;
+            line-height: 1.5;
+            font-size: 12px; }
+      body div.article-container section > div.hidden-section {
+        width: 1080px;
+        margin-left: -40px; }
+        body div.article-container section > div.hidden-section div.content {
+          overflow: hidden;
+          background-color: #f8f8f8;
+          -webkit-transition: height 0.4s ease;
+          transition: height 0.4s ease; }
+          body div.article-container section > div.hidden-section div.content.hidden {
+            height: 0; }
+          body div.article-container section > div.hidden-section div.content p {
+            width: 400px;
+            float: left;
+            overflow-y: hidden;
+            text-overflow: ellipsis;
+            line-height: 1.5;
+            font-weight: 100;
+            padding: 20px;
+            margin: 0;
+            display: inline-block; }
+          body div.article-container section > div.hidden-section div.content img {
+            padding: 20px;
+            width: 600px;
+            height: 300px;
+            float: right; }
+        body div.article-container section > div.hidden-section div.substory {
+          color: gray;
+          width: 200px;
+          margin-top: -50px;
+          margin-left: 20px;
+          padding-bottom: 40px;
+          cursor: pointer !important;
+          -webkit-transition: color 0.4s ease;
+          transition: color 0.4s ease; }
+          body div.article-container section > div.hidden-section div.substory > i, body div.article-container section > div.hidden-section div.substory > span {
+            color: inherit; }
+          body div.article-container section > div.hidden-section div.substory i {
+            float: left;
+            margin-top: -16.66667px; }
+          body div.article-container section > div.hidden-section div.substory span {
+            float: right;
+            width: 150px;
+            margin-top: -16.66667px; }
+          body div.article-container section > div.hidden-section div.substory:hover {
+            color: blue; }
+    body div.article-container section.iframe div.content {
+      height: 530px; }
+      body div.article-container section.iframe div.content iframe {
+        width: 1080px;
+        height: inherit; }
