@@ -1,7 +1,7 @@
 var http = require('http'),
     express = require('express'),
     logfmt = require("logfmt"),
-    port = 3000;
+    port = 5000;
 
 
 var app = express();
@@ -13,6 +13,6 @@ app.configure(function () {
 
 
 
-var httpServer = http.createServer(app).listen(port, function () {
+var httpServer = http.createServer(app).listen(process.env.port || port, function () {
   console.log('Article listening on port ' + port);
 });
