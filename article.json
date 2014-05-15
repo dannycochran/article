@@ -14,36 +14,145 @@
     ]
   },
   {
-    "type":"hiddenSection",
-    "content": "This figure from the United Nation’s recent <a href=’http://www.ipcc.ch/report/ar5/’>Fifth Assessment Report</a> shows how future greenhouse gas emissions may change under different mitigation scenarios. Shifting to energy technologies that emit less carbon dioxide and other greenhouse gasses would reduce emissions significantly, as shown by the RCP2.6 or 4.5 lines. Failing to do so may land us around a RCP8.5 scenario, with ever-increasing emissions and and intensifying climate change. The impacts focused <a href=’http://www.ipcc-wg2.gov/’>Working Group II report</a> discusses opportunities for mitigation and adaptation to the varied effects of climate change under these different scenarios.",
-    "substory": "Click for IPCC Climate Scenarios",
+    "type":"graphic",
+    "caption":"This figure from the United Nation’s recent <a href=’http://www.ipcc.ch/report/ar5/’>Fifth Assessment Report</a> shows how future greenhouse gas emissions may change under different mitigation scenarios. Shifting to energy technologies that emit less carbon dioxide and other greenhouse gasses would reduce emissions significantly, as shown by the RCP2.6 or 4.5 lines. Failing to do so may land us around a RCP8.5 scenario, with ever-increasing emissions and and intensifying climate change. The impacts focused <a href=’http://www.ipcc-wg2.gov/’>Working Group II report</a> discusses opportunities for mitigation and adaptation to the varied effects of climate change under these different scenarios.",
     "img": "assets/img/IPCC_Pathways.png"
   },
   {
     "type":"section",
     "paragraphs": [
        { "content": "And that’s the problem. The conference goers may have been caught unawares. But when it comes to global climate change, we’ve all been given plenty of advance notice. The current round of UN reports, issued in three sections between September 2013 and March 2014, offer more detail and certainty about the science, impacts and possible solutions to climate change than ever before – but they’re the fifth such warning since 1990."},
-       { "content": "\"Climate change, once considered an issue for a distant future, has moved firmly into the present,\" trumpeted the federal government’s latest National Climate Assessment, released last week. \"Evidence of climate change,\" the authors wrote, \"appears in every region and impacts are visible in every state.\""}
+       { "content": "\"Climate change, once considered an issue for a distant future, has moved firmly into the present,\" trumpeted the federal government’s latest National Climate Assessment, released last week. \"Evidence of climate change,\" the authors wrote, \"appears in every region and impacts are visible in every state.\""},
+       { "content": "But when it comes to action, and the kind of climate leadership Brundtland called for, are we doing enough? Bay Area communities have been among those most active in trying to cut back on climate-warming carbon emissions from vehicles, buildings and more. But an analysis of the recent blue ribbon reports and interviews with scientists, social scientists and local planners and managers suggests that this focus on \"mitigation\" (cutting emissions) has come at the expense of \"adaptation\" (preparing to live with a warmer climate.) Even here on the Peninsula, where much of Silicon Valley’s infrastructure lies vulnerable to rising sea levels, we’re only now starting to heed the warnings – and run risks far greater than being caught in a cold room without a sweater."},
+       { "content": "According to the most recent projections, the global mean temperature is expected to increase by up to 2.5 degrees Celsius above preindustrial levels. Though that average increase may seem modest, it will mean more intense heat waves, more extreme storms, dramatic shifts in marine ecosystems, and a host of other knock-on effects. Sea levels could rise by anywhere between 26 and 55 inches by the end of this century, the reports conclude, and crop yields are expected to fall by up to 2 percent per decade."}
+    ]
+  },
+  {
+    "type":"graphic",
+    "caption":"© 2014 Nicole Sarto <br/> As snowpack in the Sierras melts and flows downstream, it supplies water to the Peninsula throughout the summer. This photo of Mt. Rose in February overlooks Lake Tahoe where, according to this year’s <a href=’http://cdec.water.ca.gov/cgi-progs/snowsurvey_sno/COURSES’>Sierra Snow Survey</a>, snowpack is currently at a record low.",
+    "img": "assets/img/sierra_snowpack.jpg"
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "Locally, reduced snowpack in the Sierras will put additional strain on water supplies for cities and farms alike. Increased heat waves, droughts, floods, and wildfires pose risks to local communities. Pollution and a higher prevalence of diseases transmitted by insects threaten individual health. But perhaps the most dramatic and immediate threat to the communities of the Bay Area will be rising sea levels, and the consequences that follow." }
+    ]
+  },
+  {
+    "type":"mast",
+    "img": "assets/img/harbor_section1heading.jpg",
+    "title": " ",
+    "subtitle": "The Bay Gets Bigger",
+    "caption": ""
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "\"There's certainly a realization now that climate action plans should go beyond discussing methods and efforts to reduce CO2 emissions and start to discuss mitigating for climate change,\" said Supervisor Dave Pine from San Mateo County. Pine is a local leader in educating the public and spreading awareness about sea level rise in the Bay Area. Those mitigation efforts remain essential to reducing the impacts of climate change. But given the vulnerability of the Peninsula, counties need to get serious about adaptation, too. And according to the recent reports, local policy isn’t keeping up with the encroaching high tide line." },
+       { "content": "\"We're going to see obvious changes in the next 30 years,\" said Dr. Patrick Barnard, a coastal geologist with the US Geological Survey. Since the 1980s, he explained, the prevailing wind patterns have suppressed sea level rise in the Bay Area. Steady winds have shifted water to the West -- accelerating sea level rise in places in Hawaii, while sparing West Coast shores."},
+       { "content": "As those wind patterns change, rising sea levels will dramatically change the likelihood of coastal flooding in the Bay Area, explained Barnard. The <a href='http://www.bcdc.ca.gov/'>Bay Area Conservation and Development Commission</a>, an organization deeply involved in studying and preparing for rising sea levels, <a href='http://www.bcdc.ca.gov/planning/climate_change/maps/16_55/cbay_south.pdf'>has mapped out</a> what the Peninsula could look like if projections hold true."}
     ]
   },
   {
     "type": "blurb",
     "paragraphNum": 0,
     "img": "assets/img/sarto.jpg",
-    "info": "Nicole studies Earth Systems at Stanford University. She is a Lorry Lokey fellow and Head TA for Earth Systems 10."
+    "info": "Supervisor Dave Pine"
+  },
+  {
+    "type": "blurb",
+    "paragraphNum": 1,
+    "img": "assets/img/sarto.jpg",
+    "info": "Dr. Patrick Barnard"
+  },
+  {
+    "type":"iframe",
+    "substory":"click to see a map of sea level rise",
+    "url": "http://sealevel.climatecentral.org/surgingseas/place/cities/CA/San_Francisco#center=10/37.6133/-122.1826&surge=2&show=cities"
   },
   {
     "type":"section",
     "paragraphs": [
-       { "content": "Bacon ipsum dolor sit amet strip steak pork chop eu nostrud sint esse ham hock. Anim duis jerky, dolore sed do tongue id. Tenderloin tail frankfurter doner bresaola et bacon aliqua officia ut ribeye ut. Consectetur sirloin shank ball tip, drumstick quis labore t-bone eu pariatur rump. Cillum dolore pork, quis drumstick qui tail turducken est pancetta laborum cupidatat kielbasa tenderloin meatloaf. Est ball tip officia, aliquip shankle cillum meatloaf. Short loin pancetta ea culpa pariatur ut kevin." },
-       { "content": "An odd dissonance hung in the room. Certainly, the many climate scientists, policy experts, social scientists and others who had gathered at Stanford University agreed with the conclusions of the latest United Nations reports on rising global temperatures: that climate change is real, human activity is the main cause, and the impacts are already being felt. And not just in far off polar regions, but right here in the Bay Area, too. But as former Norwegian prime minister Gro Brundtland stepped to the microphone to deliver a keynote address on the urgent need for leadership in sustainable, low-emission development, she pulled her flowing purple blouse and scarves closer, against the auditorium’s chilled air. The air conditioner was out of control, creating artificially frigid conditions despite the pleasant California warmth outside. Like Brundtland, many at the “Connecting the Dots 2014” conference were left wishing they’d brought an extra sweater - they were caught unprepared, in other words, by an unexpected change in the (indoor) climate."},
-       { "content": "And that’s the problem. The conference goers may have been caught unawares. But when it comes to global climate change, we’ve all been given plenty of advance notice. The current round of UN reports, issued in three sections between September 2013 and March 2014, offer more detail and certainty about the science, impacts and possible solutions to climate change than ever before – but they’re the fifth such warning since 1990."}
+       { "content": "A medium-level projection of sixteen inches of sea level rise by the middle of the current century would result in the frequent flooding of of the property east of Highway 101, if the water is not held back by sea walls or other creative, and potentially expensive, infrastructure developments. A sea level rise on that order not only threatens area residents, but also Silicon Valley tech powerhouses like Facebook, whose campus could go from being beside the bay to halfway in it. \"The value of property at risk of sea level rise in San Mateo county exceeds that of any other county in California so we are at ground zero for sea level rise,\" said Supervisor Pine." },
+       { "content": "And that assessment doesn’t even take agriculture into account. Jerry Hearn, a local watershed advocate, is worried about the interaction between sea level rise and drought in the Bay Area. As emphasized in the US Climate Impacts Assessment report, California faces increasing likelihood of prolonged drought as the Sierra snowpack, which supplies an enormous amount of water to Peninsula residents during the summer months, continues to dwindle with rising temperatures. Hearn said that this forces residents – both municipalities and farmers – to draw more heavily on local groundwater supplies."},
+       { "content": "\"When you pump the groundwater out, and you’re near a source of saltwater, you’re creating a vacuum,\" Hearn said. That vacuum allows saltwater to infiltrate the primarily fresh water table, a phenomenon known as saltwater intrusion. This could have serious implications, such as less local water, salted agricultural fields, and contaminated drinking water supplies."}
     ]
   },
   {
-    "type":"iframe",
-    "substory":"click to show a map of sea level rise and this title is too long!",
-    "url": "http://sealevel.climatecentral.org/surgingseas/place/cities/CA/San_Francisco#center=10/37.6133/-122.1826&surge=2&show=cities"
+    "type": "blurb",
+    "paragraphNum": 1,
+    "img": "assets/img/sarto.jpg",
+    "info": "Jerry Hearn"
+  },
+  {
+    "type":"graphic",
+    "caption":"© 2014 Nicole Sarto <br/> With many of California’s coastal communities at or just below sea level, rising seas combined with sinking land could be a big problem. Saltwater intruding into the fresh groundwater aquifers could compound higher water scarcity and prices due to drought. For more information, check out this <a href=' https://woods.stanford.edu/news-events/news/new-way-see-saltwater-intrusion-groundwater'>saltwater intrusion visualization.</a>",
+    "img": "assets/img/saltwater_intrusion.jpg"
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "Even if the saltwater doesn’t get in, increased reliance on local groundwater resources risks the subsidence of already vulnerable land. With the removal of water from underground aquifers, the surface of the land can actually sink to fill the space voided by the removed water. Hearn said that some parts of Santa Clara County have sunk an incredible 13 feet since the late 1800s as a result of groundwater exploitation." },
+       { "content": "\"With subsidence, the places that need to rise along the bay are actually sinking,\" Hearn said. \"Places like East Palo Alto and Foster City and parts of Mountain View, those are sinking. This makes them even more difficult to protect from rising sea levels.\""},
+       { "content": "Together, flooding, saltwater intrusion, and subsidence are setting up the conditions for a perfect storm of sea level rise impacts in the Bay Area." },
+       { "content": "\"We live now in an era where many of the climate changes that we’ll experience over the next few decades are already essentially baked into the system. Some are baked into the system as a consequence of the physical characteristics of the system and the fact that there is a lot of biophysical inertia in the lands and the oceans,\" said Christopher Field, co-chair of the IPCC Working Group II Report. "},
+       { "content": "Mitigation efforts won’t be enough to fight these baked in solutions. \"What that means is that a smart portfolio moving forward has to include a substantial focus on adapting to climate changes that cannot be avoided,\" said Field. "},
+       { "content": "Hearn’s point reflects a major conclusion of the recent UN reports: The fact is, climate change is already here. We’re no longer planning for the future. We’re adapting to changes that have already occurred. "},
+       { "content": "Field describes the coming decades as \"an era of climate responsibility,\" a period in which no amount of emissions reduction will prevent changes already occurring in the world’s climate and a time when adaptation will play a critical role. \"We need to take responsibility for the fact that they are going to be consequential climate changes are and there is nothing we can do to avoid those,\" he says." }
+    ]
+  },
+  {
+    "type": "blurb",
+    "paragraphNum": 3,
+    "img": "assets/img/chris_field.jpg",
+    "info": "Chris Field"
+  },
+  {
+    "type":"mast",
+    "img": "assets/img/cows_section2header.jpg",
+    "title": " ",
+    "subtitle": "Thinking Globally, Planning Locally",
+    "caption": ""
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "Climate scientists have been calling for more adaptation for years – as their increasingly urgent calls for cutting back carbon emissions have gone largely unheeded. But what about the people who would actually put such adaptation plans into action? Local and regional planners are \"coming to this finally, but they’re coming to it late,\" said Susanne Moser, Social Science Research Fellow at Stanford University’s Woods Institute for the Environment." },
+       { "content": "However, Moser pointed to some glimmers of hope. \"People are working together, for example, in the Bay Area,\" she said. \"The communities and counties are self-organizing into regional consortia. They can’t fix it alone, it’s not cost-effective to think about it on a one-by-one mode.\" "},
+       { "content": "One example of a regional effort to protect the Bay is the <a href=’http://sfbayrestore.org/’>San Francisco Bay Restoration Authority</a>, which focuses on wetland restoration. \"Wetlands are remarkable devices, both for the health of the Bay but also as flood protection mechanisms,\" said Supervisor Pine, a member of the board. \"If they have sufficient sediment supply, they can actually grow and adapt and somewhat stay ahead of sea level rise.\"" }
+    ]
+  },
+  {
+    "type": "blurb",
+    "paragraphNum": 0,
+    "img": "assets/img/susanne_moser.jpg",
+    "info": "Susanne Moser"
+  },
+  {
+    "type":"graphic",
+    "caption":"Some coastal communities will be better able to adapt infrastructure to cope with rising sea levels. Most coastal communities along the Peninsula might be disadvantaged compared to upstream communities according to Hearn, but the reverse is often true in nearby Monterey County. This photo of bulldozers moving sand around Carmel River Beach shows the efforts this wealthy community is willing take to reduce flooding risks, seawater intrusion, and beach erosion.",
+    "img": "assets/img/bulldozers.jpg"
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "Wetlands are going to be essential protection from sea level rise in the Bay because they act as natural sponges. They absorb water and then gradually release it, and also serve to slow down flood waters." },
+       { "content": "\"It’s not going to do much good to protect your own bay shore if your neighbor’s bay shore is unprotected,\" said Pine. To raise funds for wetland restoration in all nine Bay Area Counties, the authority is proposing a special tax on the 2014 November ballot."},
+       { "content": "Preliminary polling shows that the tax is likely to get the two thirds vote needed to pass according to Pine’s staff, but beyond raising and allocating funds, the authority does not have any legal power over cities’ land use plans. And that is the main issue in climate change policy in the Bay Area - there is no organizational framework for making regional decisions. Demetra McBride, the director of the Santa Clara Office of Sustainability and Climate Change, is hoping to change that." },
+       { "content": "Without a fundamental planning framework, \"I don’t think we can move forward helter skelter,\" said McBride. In June 2014, McBride will be concluding a project called Silicon Valley 2.0 that has been developing just such a framework. The goal of the project is to identify the key impacts of climate change and jumpstart regional policies to protect the most threatened areas in the region. The idea, McBride said, is to \"rank strategies, prioritize them and plan them out in a much more strategic and effective way.\""}
+    ]
+  },
+  {
+    "type": "blurb",
+    "paragraphNum": 2,
+    "img": "assets/img/sarto.jpg",
+    "info": "Demetra McBride"
+  },
+  {
+    "type":"hiddenSection",
+    "content": "This figure from the United Nation’s recent <a href=’http://www.ipcc.ch/report/ar5/’>Fifth Assessment Report</a> shows how future greenhouse gas emissions may change under different mitigation scenarios. Shifting to energy technologies that emit less carbon dioxide and other greenhouse gasses would reduce emissions significantly, as shown by the RCP2.6 or 4.5 lines. Failing to do so may land us around a RCP8.5 scenario, with ever-increasing emissions and and intensifying climate change. The impacts focused <a href=’http://www.ipcc-wg2.gov/’>Working Group II report</a> discusses opportunities for mitigation and adaptation to the varied effects of climate change under these different scenarios.",
+    "substory": "San Clemente Dam Drama",
+    "img": "assets/img/dam_sidebar.jpg"
   },
   {
     "type":"section",

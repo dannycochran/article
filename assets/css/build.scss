@@ -1,7 +1,7 @@
 $majorGridWidth: 100px;
 
 $maxWidth: $majorGridWidth * 10;
-$imageHeight: $majorGridWidth * 6;
+$imageHeight: $majorGridWidth * 5;
 
 $buffer: 40px;
 $background: rgb(248, 248, 248);
@@ -82,7 +82,7 @@ body {
           }
           div.title {
             width: inherit;
-            top: $maxWidth * 0.42;
+            margin-top: $imageHeight - $buffer * 5;
             position: absolute;
             font-size: $fontSize-huge;
             text-align: right;
@@ -95,8 +95,8 @@ body {
             font-weight: 100;
             font-size: $fontSize-large;
             letter-spacing: 1px;
-            top: $maxWidth * 0.55;
             position: absolute;
+            margin-top: $imageHeight - $buffer * 2;
           }
         }
       }

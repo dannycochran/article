@@ -33,15 +33,15 @@ body {
           right: 400px; }
     body div.article-container div.image-banner header {
       width: 1000px;
-      height: 600px !important;
-      background-size: 1000px 600px; }
+      height: 500px !important;
+      background-size: 1000px 500px; }
       body div.article-container div.image-banner header div.title-container {
         width: 1000px;
         height: inherit;
         color: white; }
         body div.article-container div.image-banner header div.title-container div.opacity-shield {
           width: 1000px;
-          height: 600px;
+          height: 500px;
           margin: 0;
           padding: 0;
           position: absolute;
@@ -58,7 +58,7 @@ body {
           right: 80px; }
         body div.article-container div.image-banner header div.title-container div.title {
           width: inherit;
-          top: 420px;
+          margin-top: 300px;
           position: absolute;
           font-size: 96px;
           text-align: right;
@@ -70,8 +70,8 @@ body {
           font-weight: 100;
           font-size: 36px;
           letter-spacing: 1px;
-          top: 550px;
-          position: absolute; }
+          position: absolute;
+          margin-top: 420px; }
     body div.article-container div.image-banner div.caption {
       color: gray;
       line-height: 1.5;
