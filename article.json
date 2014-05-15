@@ -65,5 +65,13 @@
        { "content": "Ullamco nulla proident excepteur, adipisicing in turkey shoulder enim meatloaf dolore consequat strip steak corned beef. Shoulder velit sirloin turducken dolore tongue kevin porchetta meatloaf boudin magna nulla tri-tip bresaola venison. Aute sirloin capicola, swine ut qui shank bresaola in boudin anim aliquip sausage commodo. Qui short ribs velit frankfurter in commodo. Kevin porchetta enim laboris ut fatback rump. Ut esse shoulder, dolore quis sirloin tempor filet mignon laboris anim pork belly beef spare ribs."},
        { "content": "Bacon ipsum dolor sit amet strip steak pork chop eu nostrud sint esse ham hock. Anim duis jerky, dolore sed do tongue id. Tenderloin tail frankfurter doner bresaola et bacon aliqua officia ut ribeye ut. Consectetur sirloin shank ball tip, drumstick quis labore t-bone eu pariatur rump. Cillum dolore pork, quis drumstick qui tail turducken est pancetta laborum cupidatat kielbasa tenderloin meatloaf. Est ball tip officia, aliquip shankle cillum meatloaf. Short loin pancetta ea culpa pariatur ut kevin." }
     ]
+  },
+  {
+    "type":"credits",
+    "authors": [
+      {"title":"art director", "name":"Nicole Sarto"},
+      {"title":"writer", "name":"Jimminy Jillickers"},
+      {"title":"photographer", "name":"Amy Photographer"}
+    ]
   }
 ]

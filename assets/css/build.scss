@@ -35,6 +35,20 @@ body {
     padding: $buffer;
     position: absolute; left: 0; right: 0; margin: auto;
     background-color: white;
+    div.credits {
+      width: $maxWidth / 4;
+      margin-left: $maxWidth * 0.35;
+      margin-top: $buffer;
+      font-weight: 200;
+      color: darken(gray, 10);
+      div.author {
+        width: inherit;
+        padding-top: 5px;
+        span { display: inline-block; }
+        span.title { font-style: italic; color: gray; }
+        span.name {position: absolute; right: $maxWidth / 2.5;}
+      }
+    }
     div.image-banner {
       header {
         width: $maxWidth;
