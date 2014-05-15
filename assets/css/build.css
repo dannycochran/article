@@ -134,10 +134,11 @@ body {
             overflow-y: hidden;
             text-overflow: ellipsis;
             line-height: 1.5;
-            font-weight: 100;
+            font-weight: 200;
             padding: 20px;
             margin: 0;
-            display: inline-block; }
+            display: inline-block;
+            font-size: 14px; }
           body div.article-container section > div.hidden-section div.content img {
             padding: 20px;
             width: 600px;

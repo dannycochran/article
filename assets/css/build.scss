@@ -9,6 +9,7 @@ $background: rgb(248, 248, 248);
 $fontSize-huge: 96px;
 $fontSize-large: 36px;
 $fontSize-small: 12px;
+$fontSize-sidebar: 14px;
 $border: 1px solid darken(white, 15);
 
 $top: rgba(255, 255, 255, 0.0);
@@ -177,10 +178,11 @@ body {
             overflow-y: hidden;
             text-overflow: ellipsis;
             line-height: 1.5;
-            font-weight: 100;
+            font-weight: 200;
             padding: $buffer/2;
             margin: 0;
             display: inline-block;
+            font-size: $fontSize-sidebar;
           }
           img {
             padding: $buffer / 2;

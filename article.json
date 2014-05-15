@@ -150,16 +150,25 @@
   },
   {
     "type":"hiddenSection",
-    "content": "This figure from the United Nation’s recent <a href=’http://www.ipcc.ch/report/ar5/’>Fifth Assessment Report</a> shows how future greenhouse gas emissions may change under different mitigation scenarios. Shifting to energy technologies that emit less carbon dioxide and other greenhouse gasses would reduce emissions significantly, as shown by the RCP2.6 or 4.5 lines. Failing to do so may land us around a RCP8.5 scenario, with ever-increasing emissions and and intensifying climate change. The impacts focused <a href=’http://www.ipcc-wg2.gov/’>Working Group II report</a> discusses opportunities for mitigation and adaptation to the varied effects of climate change under these different scenarios.",
-    "substory": "San Clemente Dam Drama",
+    "content": "Much of the existing infrastructure (dams, canals, reservoirs) that supplies snowmelt to parched areas throughout the summer months was built during Roosevelt’s New Deal Era back in the 1930s and 1940s. Many of these aged structures need (expensive) updating. The San Clemente Dam in Monterey County once served as a diversion point for the Carmel River, but after becoming 95 percent filled with sediment, it has become ineffective and possibly dangerous, as it is also seismically unstable. Plans are underway to remove the dam and restore the habitat of threatened South-Central California Coast steelhead. The dam removal is also projected to reduce channel incision and beach erosion that now contributes to destabilization of homes, roads and infrastructure along the coast.",
+    "substory": "removing the San Clemente Dam",
     "img": "assets/img/dam_sidebar.jpg"
   },
   {
     "type":"section",
     "paragraphs": [
-       { "content": "Bacon ipsum dolor sit amet strip steak pork chop eu nostrud sint esse ham hock. Anim duis jerky, dolore sed do tongue id. Tenderloin tail frankfurter doner bresaola et bacon aliqua officia ut ribeye ut. Consectetur sirloin shank ball tip, drumstick quis labore t-bone eu pariatur rump. Cillum dolore pork, quis drumstick qui tail turducken est pancetta laborum cupidatat kielbasa tenderloin meatloaf. Est ball tip officia, aliquip shankle cillum meatloaf. Short loin pancetta ea culpa pariatur ut kevin." },
-       { "content": "Ullamco nulla proident excepteur, adipisicing in turkey shoulder enim meatloaf dolore consequat strip steak corned beef. Shoulder velit sirloin turducken dolore tongue kevin porchetta meatloaf boudin magna nulla tri-tip bresaola venison. Aute sirloin capicola, swine ut qui shank bresaola in boudin anim aliquip sausage commodo. Qui short ribs velit frankfurter in commodo. Kevin porchetta enim laboris ut fatback rump. Ut esse shoulder, dolore quis sirloin tempor filet mignon laboris anim pork belly beef spare ribs."},
-       { "content": "Bacon ipsum dolor sit amet strip steak pork chop eu nostrud sint esse ham hock. Anim duis jerky, dolore sed do tongue id. Tenderloin tail frankfurter doner bresaola et bacon aliqua officia ut ribeye ut. Consectetur sirloin shank ball tip, drumstick quis labore t-bone eu pariatur rump. Cillum dolore pork, quis drumstick qui tail turducken est pancetta laborum cupidatat kielbasa tenderloin meatloaf. Est ball tip officia, aliquip shankle cillum meatloaf. Short loin pancetta ea culpa pariatur ut kevin." }
+       { "content": "As part of the project, McBride’s team has developed an interactive online tool that analyzes the costs and benefits of infrastructural projects in the context of various climate change scenarios. For example, most of the area's wastewater treatment plants are along the coast. With the new tool, local governments could focus on a climate change scenario with three feet of sea level rise and ask: how much it would cost to move the treatment plant somewhere else, versus building a new one, versus not doing anything? Within those models, policy makers can test which preventative and adaptive strategies will be able to protect the most assets." }
+    ]
+  },
+  {
+    "type":"graphic",
+    "caption":"wastewater treatment plant",
+    "img": "assets/img/winter.jpg"
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "McBride will host a regional forum in June to demonstrate the tool and to preview a climate preparedness action implementation plan with regional stakeholders. \"The tool will be a good bridge towards action,\" McBride said." }
     ]
   },
   {
