@@ -91,6 +91,17 @@
         <p><%= info %></p>
       </script>
 
+      <script id="credits-template" type="text/template">
+        <div class="credits">
+          <% _.each(authors, function (author) { %>
+            <div class="author">
+              <span class="title"><%= author.title %></span>
+              <span class="name"><%= author.name %></span>
+            </div>
+          <% }); %>
+        </div>
+      </script>
+
       <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore.js"></script>
       <script src="js/build.js"></script>

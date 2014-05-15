@@ -9,6 +9,7 @@ $(document).ready(function () {
     hiddenSection: _.template($('#hidden-section-template').html()),
     iframe: _.template($('#iframe-template').html()),
     graphic: _.template($('#graphic-template').html()),
+    credits: _.template($('#credits-template').html())
   };
 
   $.getJSON('/article.json', function(components) {

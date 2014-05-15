@@ -14,6 +14,23 @@ body {
     right: 0;
     margin: auto;
     background-color: white; }
+    body div.article-container div.credits {
+      width: 250px;
+      margin-left: 350px;
+      margin-top: 40px;
+      font-weight: 200;
+      color: #676767; }
+      body div.article-container div.credits div.author {
+        width: inherit;
+        padding-top: 5px; }
+        body div.article-container div.credits div.author span {
+          display: inline-block; }
+        body div.article-container div.credits div.author span.title {
+          font-style: italic;
+          color: gray; }
+        body div.article-container div.credits div.author span.name {
+          position: absolute;
+          right: 400px; }
     body div.article-container div.image-banner header {
       width: 1000px;
       height: 600px !important;
