@@ -4,7 +4,7 @@
     "img": "assets/img/mast.jpg",
     "title": "Local Warming",
     "subtitle": "climate change comes home to the Peninsula",
-    "caption": ""
+    "caption": "© 2012 Nicole Sarto <br/> Like the Moss Landing Power Plant in Monterey County, much of the infrastructure that sustains the Peninsula’s growing population is located in low-lying coastal areas that are at risk for flooding with sea level rise and storm surges."
   },
   {
     "type":"section",
@@ -15,16 +15,26 @@
   },
   {
     "type":"graphic",
+    "caption":"© 2014 Simone Barley-Greenfield </br> Panelists (from left to right) Noah Diffenbaugh, Charles Kolstad, Terry Root, and Jon Krosnick bring their diverse expertise to climate change topics in a discussion moderated by Lauren Sommer (far left) at the Connecting the Dots Conference on April 18th, 2014.",
+    "img": "assets/img/conference.jpg"
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "And that’s the problem. The conference goers may have been caught unawares. But when it comes to global climate change, we’ve all been given plenty of advance notice. The current round of UN reports, issued in three sections between September 2013 and March 2014, offer more detail and certainty about the science, impacts and possible solutions to climate change than ever before – but they’re the fifth such warning since 1990."},
+       { "content": "\"Climate change, once considered an issue for a distant future, has moved firmly into the present,\" trumpeted the federal government’s latest National Climate Assessment, released last week. \"Evidence of climate change,\" the authors wrote, \"appears in every region and impacts are visible in every state.\""}
+    ]
+  },
+  {
+    "type":"graphic",
     "caption":"This figure from the United Nation’s recent <a href=’http://www.ipcc.ch/report/ar5/’>Fifth Assessment Report</a> shows how future greenhouse gas emissions may change under different mitigation scenarios. Shifting to energy technologies that emit less carbon dioxide and other greenhouse gasses would reduce emissions significantly, as shown by the RCP2.6 or 4.5 lines. Failing to do so may land us around a RCP8.5 scenario, with ever-increasing emissions and and intensifying climate change. The impacts focused <a href=’http://www.ipcc-wg2.gov/’>Working Group II report</a> discusses opportunities for mitigation and adaptation to the varied effects of climate change under these different scenarios.",
     "img": "assets/img/IPCC_Pathways.png"
   },
   {
     "type":"section",
     "paragraphs": [
-       { "content": "And that’s the problem. The conference goers may have been caught unawares. But when it comes to global climate change, we’ve all been given plenty of advance notice. The current round of UN reports, issued in three sections between September 2013 and March 2014, offer more detail and certainty about the science, impacts and possible solutions to climate change than ever before – but they’re the fifth such warning since 1990."},
-       { "content": "\"Climate change, once considered an issue for a distant future, has moved firmly into the present,\" trumpeted the federal government’s latest National Climate Assessment, released last week. \"Evidence of climate change,\" the authors wrote, \"appears in every region and impacts are visible in every state.\""},
-       { "content": "But when it comes to action, and the kind of climate leadership Brundtland called for, are we doing enough? Bay Area communities have been among those most active in trying to cut back on climate-warming carbon emissions from vehicles, buildings and more. But an analysis of the recent blue ribbon reports and interviews with scientists, social scientists and local planners and managers suggests that this focus on \"mitigation\" (cutting emissions) has come at the expense of \"adaptation\" (preparing to live with a warmer climate.) Even here on the Peninsula, where much of Silicon Valley’s infrastructure lies vulnerable to rising sea levels, we’re only now starting to heed the warnings – and run risks far greater than being caught in a cold room without a sweater."},
-       { "content": "According to the most recent projections, the global mean temperature is expected to increase by up to 2.5 degrees Celsius above preindustrial levels. Though that average increase may seem modest, it will mean more intense heat waves, more extreme storms, dramatic shifts in marine ecosystems, and a host of other knock-on effects. Sea levels could rise by anywhere between 26 and 55 inches by the end of this century, the reports conclude, and crop yields are expected to fall by up to 2 percent per decade."}
+        { "content": "But when it comes to action, and the kind of climate leadership Brundtland called for, are we doing enough? Bay Area communities have been among those most active in trying to cut back on climate-warming carbon emissions from vehicles, buildings and more. But an analysis of the recent blue ribbon reports and interviews with scientists, social scientists and local planners and managers suggests that this focus on \"mitigation\" (cutting emissions) has come at the expense of \"adaptation\" (preparing to live with a warmer climate.) Even here on the Peninsula, where much of Silicon Valley’s infrastructure lies vulnerable to rising sea levels, we’re only now starting to heed the warnings – and run risks far greater than being caught in a cold room without a sweater."},
+        { "content": "According to the most recent projections, the global mean temperature is expected to increase by up to 2.5 degrees Celsius above preindustrial levels. Though that average increase may seem modest, it will mean more intense heat waves, more extreme storms, dramatic shifts in marine ecosystems, and a host of other knock-on effects. Sea levels could rise by anywhere between 26 and 55 inches by the end of this century, the reports conclude, and crop yields are expected to fall by up to 2 percent per decade."}
     ]
   },
   {
@@ -42,8 +52,8 @@
     "type":"mast",
     "img": "assets/img/harbor_section1heading.jpg",
     "title": " ",
-    "subtitle": "The Bay Gets Bigger",
-    "caption": ""
+    "subtitle": "The Bay is Getting Bigger",
+    "caption": "© 2012 Nicole Sarto <br/> Coastal zones around the Bay Area are threatened by sea level rise and flooding during extreme weather events."
   },
   {
     "type":"section",
@@ -86,7 +96,7 @@
   },
   {
     "type":"graphic",
-    "caption":"© 2014 Nicole Sarto <br/> With many of California’s coastal communities at or just below sea level, rising seas combined with sinking land could be a big problem. Saltwater intruding into the fresh groundwater aquifers could compound higher water scarcity and prices due to drought. For more information, check out this <a href=' https://woods.stanford.edu/news-events/news/new-way-see-saltwater-intrusion-groundwater'>saltwater intrusion visualization.</a>",
+    "caption":"© 2012 Nicole Sarto <br/> With many of California’s coastal communities at or just below sea level, rising seas combined with sinking land could be a big problem. Saltwater intruding into the fresh groundwater aquifers could compound higher water scarcity and prices due to drought. For more information, check out this <a href=' https://woods.stanford.edu/news-events/news/new-way-see-saltwater-intrusion-groundwater'>saltwater intrusion visualization.</a>",
     "img": "assets/img/saltwater_intrusion.jpg"
   },
   {
@@ -109,10 +119,10 @@
   },
   {
     "type":"mast",
-    "img": "assets/img/cows_section2header.jpg",
+    "img": "assets/img/agriculture.jpg",
     "title": " ",
     "subtitle": "Thinking Globally, Planning Locally",
-    "caption": ""
+    "caption": "© 2012 Nicole Sarto </br> The Peninsula is surrounded by fertile agricultural lands that supply fruits and vegetables to the world. This strawberry farm is located in Salinas. Farms like this one range in their application of water conservation techniques, but it is fair to say that drought will raise water costs for many farms, possibly resulting in higher produce prices at the grocery store."
   },
   {
     "type":"section",
@@ -130,7 +140,7 @@
   },
   {
     "type":"graphic",
-    "caption":"Some coastal communities will be better able to adapt infrastructure to cope with rising sea levels. Most coastal communities along the Peninsula might be disadvantaged compared to upstream communities according to Hearn, but the reverse is often true in nearby Monterey County. This photo of bulldozers moving sand around Carmel River Beach shows the efforts this wealthy community is willing take to reduce flooding risks, seawater intrusion, and beach erosion.",
+    "caption":"© 2012 Nicole Sarto </br> Some coastal communities will be better able to adapt infrastructure to cope with rising sea levels. Most coastal communities along the Peninsula might be disadvantaged compared to upstream communities according to Hearn, but the reverse is often true in nearby Monterey County. This photo of bulldozers moving sand around Carmel River Beach shows the efforts this wealthy community is willing take to reduce flooding risks, seawater intrusion, and beach erosion.",
     "img": "assets/img/bulldozers.jpg"
   },
   {
@@ -162,34 +172,82 @@
   },
   {
     "type":"graphic",
-    "caption":"wastewater treatment plant",
-    "img": "assets/img/winter.jpg"
+    "caption":"© 2014 Faine Greenwood <br/> The Regional Water Quality Control Plant shown here is owned and operated by the City of Palo Alto for the communities of Los Altos, Los Altos Hills, Mountain View, Palo Alto, Stanford University and the East Palo Alto Sanitary District.",
+    "img": "assets/img/wastewater.jpg"
   },
   {
     "type":"section",
     "paragraphs": [
-       { "content": "McBride will host a regional forum in June to demonstrate the tool and to preview a climate preparedness action implementation plan with regional stakeholders. \"The tool will be a good bridge towards action,\" McBride said." }
+       { "content": "McBride will host a regional forum in June to demonstrate the tool and to preview a climate preparedness action implementation plan with regional stakeholders. \"The tool will be a good bridge towards action,\" McBride said." },
+       { "content": "And it’s clear that action on climate change is going to need to come sooner than expected. \"Five years ago, the future meant 2050,\" McBride said. \"Today, the future means 2030, 2035.\""},
+       { "content": "The looming question remains: are regional leaders moving quickly enough? As Field suggested, we still have a window of opportunity for adaptation, but that window is rapidly closing."}
     ]
+  },
+  {
+    "type":"mast",
+    "img": "assets/img/stanford.jpg",
+    "title": " ",
+    "subtitle": "A Breeze at the Window of Opportunity",
+    "caption": "© 2013 Nicole Sarto </br> Stanford’s close neighbor, Palo Alto, was one of the first cities to create a Climate Action Plan, making it one of the more forward-thinking cities in the nation when it comes to mitigating and adapting to climate change."
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "Many cities along the Peninsula are capitalizing on the window of opportunity we still have in this \"era of responsibility\" on climate change issues. A first step for many cities is instituting local climate action plans, commonly abbreviated as CAPs. The wheels of local CAPs are turning towards adaptation, but in some cases, not quickly enough." },
+       { "content": "Some cities, like Sunnyvale, lag behind the others. At a meeting scheduled for May 20, the Sunnyvale city council will decide whether or not to adopt the city's first ever CAP. In the city’s draft of the CAP, the narrow mitigation focus on reducing carbon emissions stands out, while broader adaptation efforts are missing. And that narrow focus has the members of Sunnyvale's Sustainability Commission worried."},
+       { "content": "Other cities along the Peninsula, such as Palo Alto, are at least trying to ramp up adaptation efforts. Palo Alto adopted its first CAP in 2007, making it one of the earliest cities in the nation to recognize the importance of climate change. But much like Sunnyvale, the Palo Alto CAP focuses almost exclusively on mitigation. In his annual update to the Palo Alto City Council on April 21st, Palo Alto’s Chief Sustainability Officer, Gil Friend, acknowledged the importance of adaptation. \"We’re exposed to these changes in a variety of ways and we need to plan for those,\" says Friend." },
+       { "content": "Over the course of the coming year, Friend says he'll work with his team to rewrite the city's CAP with a focus on more fully embracing broad sustainability, as opposed to focusing more narrowly on mitigation or adaptation."}
+    ]
+  },
+  {
+    "type": "blurb",
+    "paragraphNum": 2,
+    "img": "assets/img/sarto.jpg",
+    "info": "Gil Friend"
   },
   {
     "type":"graphic",
-    "caption":"winter has come",
+    "caption":"© 2014 Simone Barley-Greenfield </br> Golf courses, like this one in the Stanford hills, use vast amounts of water to keep those grassy greens… well, green! Just compare to the wild, rain-fed grasses growing nearby.",
+    "img": "assets/img/stanford_golfcourse.jpg"
+  },
+  {
+    "type":"section",
+    "paragraphs": [
+       { "content": "But it's not always easy to motivate policy action at the local level. Humans like to deal with problems that are \"here, now, to us, and for sure,\" said Stanford PhD student Nik Sawe, addressing a discussion group he led at Stanford’s Connecting the Dots conference." },
+       { "content": "Despite the increasing certainty of scientific projections and the spread and intensification of climate-change impacts, \"We don't have that with climate change,\" Sawe said, referencing his research on how human psychology influences decision making about environmental problems."},
+       { "content": "The slow moving, widespread nature of climate change makes adaptation particularly hard. Both the magnitude and the timing of climate change impacts at the local level are tougher to predict than are global averages and regional trends. Translated to the level of city politics, that means city officials often find themselves making the choice between improving schools today or preparing for a once-in-a-hundred-year drought that might or might not happen soon. More often than not, cities opt to improve the school." }
+    ]
+  },
+  {
+    "type": "blurb",
+    "paragraphNum": 0,
+    "img": "assets/img/sarto.jpg",
+    "info": "Nik Sawe"
+  },
+  {
+    "type":"graphic",
+    "caption":"That \"once in a hundred year drought\" might be happening now, with higher than average temperatures and lower than average precipitation throughout California. Failure to implement effective adaptation regimes could have potentially devastating effects on native wildlife, livestock, agriculture, and countless other aspects of life in our region. <a href='http://www.climate.gov/news-features/event-tracker/winter-storms-bring-only-fleeting-relief-drought-stricken-california'>Image Source</a>",
     "img": "assets/img/winter.jpg"
   },
   {
     "type":"section",
     "paragraphs": [
-       { "content": "Bacon ipsum dolor sit amet strip steak pork chop eu nostrud sint esse ham hock. Anim duis jerky, dolore sed do tongue id. Tenderloin tail frankfurter doner bresaola et bacon aliqua officia ut ribeye ut. Consectetur sirloin shank ball tip, drumstick quis labore t-bone eu pariatur rump. Cillum dolore pork, quis drumstick qui tail turducken est pancetta laborum cupidatat kielbasa tenderloin meatloaf. Est ball tip officia, aliquip shankle cillum meatloaf. Short loin pancetta ea culpa pariatur ut kevin." },
-       { "content": "Ullamco nulla proident excepteur, adipisicing in turkey shoulder enim meatloaf dolore consequat strip steak corned beef. Shoulder velit sirloin turducken dolore tongue kevin porchetta meatloaf boudin magna nulla tri-tip bresaola venison. Aute sirloin capicola, swine ut qui shank bresaola in boudin anim aliquip sausage commodo. Qui short ribs velit frankfurter in commodo. Kevin porchetta enim laboris ut fatback rump. Ut esse shoulder, dolore quis sirloin tempor filet mignon laboris anim pork belly beef spare ribs."},
-       { "content": "Bacon ipsum dolor sit amet strip steak pork chop eu nostrud sint esse ham hock. Anim duis jerky, dolore sed do tongue id. Tenderloin tail frankfurter doner bresaola et bacon aliqua officia ut ribeye ut. Consectetur sirloin shank ball tip, drumstick quis labore t-bone eu pariatur rump. Cillum dolore pork, quis drumstick qui tail turducken est pancetta laborum cupidatat kielbasa tenderloin meatloaf. Est ball tip officia, aliquip shankle cillum meatloaf. Short loin pancetta ea culpa pariatur ut kevin." }
+       { "content": "In the opinion of many experts, the window of opportunity to prepare for climate change isn’t closed, but it’s going to take a crisis to motivate policy makers to adopt serious adaptation strategies." },
+       { "content": "\"I think in reality the wake-up call is going to be when we get our super storm Sandy,\" said a political strategist who focuses on climate change in San Mateo County. \"We’re going to get an El Niño year with a king tide and some big storms. It could be in the next five, ten years, but I think it’s going to be unfortunately a slow process until a big event happens.\""},
+       { "content": "The example of sea level rise shows that mitigation - even at a much more aggressive, effective level than anything the world has managed to far -- isn’t enough. Adaptation strategies need to get moving, and fast. If nothing else motivates policy makers to take adaptation measures now, then the coming reality of flooding, saltwater intrusion, and subsidence surely will. True, preparing for the impacts of climate change will be much harder than merely adding a scarf or two to one’s wardrobe in a chilly conference room. But how disappointing it will be if it takes disasters to finally spur action, when decades of scientific warnings could not. While some politicians are ready to make tough choices, others continue to insist that human-caused climate change itself is not real. Unfortunately, climate will not slow down to wait for politics to catch up with physical reality." },
+       { "content": "\"As sea levels and their accompanying risks continue to rise, so do the stakes of indecision,\" said Hearn. \"Sooner or later, we’re going to have our hands forced by our climate,\" he said. \"The water will bring you back to reality, and it really doesn’t play politics well.\""}
     ]
   },
+
   {
     "type":"credits",
     "authors": [
-      {"title":"art director", "name":"Nicole Sarto"},
-      {"title":"writer", "name":"Jimminy Jillickers"},
-      {"title":"photographer", "name":"Amy Photographer"}
+      {"title":"Managing Editor", "name":"Alexandra Peers"},
+      {"title":"Lead Writer", "name":"Renee Donovan"},
+      {"title":"Reporters", "name":"Grayson Badgley, Patrick Freeman, Shara Tonn"},
+      {"title":"Art Director", "name":"Nicole Sarto"},
+      {"title":"Photographers", "name":"Simone Barley-Greenfield, Faine Greenwood"},
+      {"title":"Editor-In-Chief", "name":"Thomas Hayden"}
     ]
   }
 ]

@@ -16,7 +16,7 @@ body {
     background-color: white; }
     body div.article-container div.credits {
       width: 250px;
-      margin-left: 350px;
+      margin-left: 250px;
       margin-top: 40px;
       font-weight: 200;
       color: #676767; }
@@ -30,7 +30,7 @@ body {
           color: gray; }
         body div.article-container div.credits div.author span.name {
           position: absolute;
-          right: 400px; }
+          right: 303.0303px; }
     body div.article-container div.image-banner header {
       width: 1000px;
       height: 500px !important;

@@ -38,7 +38,7 @@ body {
     background-color: white;
     div.credits {
       width: $maxWidth / 4;
-      margin-left: $maxWidth * 0.35;
+      margin-left: $maxWidth * 0.25;
       margin-top: $buffer;
       font-weight: 200;
       color: darken(gray, 10);
@@ -47,7 +47,7 @@ body {
         padding-top: 5px;
         span { display: inline-block; }
         span.title { font-style: italic; color: gray; }
-        span.name {position: absolute; right: $maxWidth / 2.5;}
+        span.name {position: absolute; right: $maxWidth / 3.3;}
       }
     }
     div.image-banner {
