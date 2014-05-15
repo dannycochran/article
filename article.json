@@ -84,7 +84,7 @@
   },
   {
     "type":"iframe",
-    "substory":"click to see a map of sea level rise",
+    "substory":"interactive map of sea level rise",
     "url": "http://sealevel.climatecentral.org/surgingseas/place/cities/CA/San_Francisco#center=10/37.6133/-122.1826&surge=2&show=cities"
   },
   {
@@ -98,8 +98,8 @@
   {
     "type": "blurb",
     "paragraphNum": 1,
-    "img": "assets/img/sarto.jpg",
-    "info": "Jerry Hearn"
+    "img": "assets/img/jerry_hearn.jpg",
+    "info": "Jerry Hearn, Local Watershed Advocate"
   },
   {
     "type":"graphic",
@@ -195,7 +195,7 @@
     "img": "assets/img/stanford.jpg",
     "title": " ",
     "subtitle": "A Breeze at the Window of Opportunity",
-    "caption": "© 2013 Nicole Sarto </br> Stanford’s close neighbor, Palo Alto, was one of the first cities to create a Climate Action Plan, making it one of the more forward-thinking cities in the nation when it comes to mitigating and adapting to climate change."
+    "caption": "© 2013 Nicole Sarto </br> Stanford’s close neighbor, Palo Alto, was one of the first cities to create a Climate Action Plan, making it one of the more forward-thinking cities in the nation when it comes to mitigating and adapting to climate change. However, they are now rewriting that early CAP to take into account the need to adapt, not just mitigate."
   },
   {
     "type":"section",
