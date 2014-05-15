@@ -9,20 +9,27 @@
   {
     "type":"section",
     "paragraphs": [
-       { "content": "As two major new reports show, climate change is no longer a concern of the future. Its effects are here, now. Bay Area governments are finally starting to prepare for intensifying impacts, but are they working fast enough?" },
-       { "content": "An odd dissonance hung in the room. Certainly, the many climate scientists, policy experts, social scientists and others who had gathered at Stanford University agreed with the conclusions of the <a href='http://www.ipcc.ch/report/ar5/'>latest United Nations reports</a> on rising global temperatures: that climate change is real, human activity is the main cause, and the impacts are already being felt. And not just in far off polar regions, but right here in the Bay Area, too. But as former Norwegian prime minister Gro Brundtland stepped to the microphone to deliver a keynote address on the urgent need for leadership in sustainable, low-emission development, she pulled her flowing purple blouse and scarves closer, against the auditorium’s chilled air. The air conditioner was out of control, creating artificially frigid conditions despite the pleasant California warmth outside. Like Brundtland, many at the “Connecting the Dots 2014” conference were left wishing they’d brought an extra sweater - they were caught unprepared, in other words, by an unexpected change in the (indoor) climate."}
+       { "content": "<b>Two major new reports show climate change is no longer a concern of the future. Its effects are here, now. Bay Area governments are finally starting to prepare for intensifying impacts, but are they working fast enough?</b>" },
+       { "content": "An odd dissonance hung in the room. Certainly, the many climate scientists, policy experts, social scientists and others who had gathered at Stanford University agreed with the conclusions of the <a href='http://www.ipcc.ch/report/ar5/'>latest United Nations reports</a> on rising global temperatures: that climate change is real, human activity is the main cause, and the impacts are already being felt. And not just in far off polar regions, but right here in the Bay Area, too."},
+       { "content": "But as former Norwegian prime minister Gro Brundtland stepped to the microphone to deliver a keynote address on the urgent need for leadership in sustainable, low-emission development, she pulled her flowing purple blouse and scarves closer, against the auditorium’s chilled air. The air conditioner was out of control, creating artificially frigid conditions despite the pleasant California warmth outside. Like Brundtland, many at the \"<a href='http://tomkat.stanford.edu/ctd/index.php'>Connecting the Dots 2014</a>\" conference were left wishing they’d brought an extra sweater - they were caught unprepared, in other words, by an unexpected change in the (indoor) climate."}
     ]
   },
   {
+    "type": "blurb",
+    "paragraphNum": 1,
+    "img": "assets/img/gro_brundtland.jpg",
+    "info": "Dr. Gro Harlem Brundtland, former Prime Minister of Norway, and Stanford's Mimi and Peter E. Haas Distinguished Visitor for Spring 2014"
+  },
+  {
     "type":"graphic",
-    "caption":"© 2014 Simone Barley-Greenfield </br> Panelists (from left to right) Noah Diffenbaugh, Charles Kolstad, Terry Root, and Jon Krosnick bring their diverse expertise to climate change topics in a discussion moderated by Lauren Sommer (far left) at the Connecting the Dots Conference on April 18th, 2014.",
+    "caption":"© 2014 Simone Barley-Greenfield </br> Panelists (from left to right) Professors Noah Diffenbaugh, Charles Kolstad, Terry Root, and Jon Krosnick bring their diverse expertise to climate change topics in a discussion moderated by environmental reporter Lauren Sommer (far left) at the Connecting the Dots Conference on April 18th, 2014.",
     "img": "assets/img/conference.jpg"
   },
   {
     "type":"section",
     "paragraphs": [
        { "content": "And that’s the problem. The conference goers may have been caught unawares. But when it comes to global climate change, we’ve all been given plenty of advance notice. The current round of UN reports, issued in three sections between September 2013 and March 2014, offer more detail and certainty about the science, impacts and possible solutions to climate change than ever before – but they’re the fifth such warning since 1990."},
-       { "content": "\"Climate change, once considered an issue for a distant future, has moved firmly into the present,\" trumpeted the federal government’s latest National Climate Assessment, released last week. \"Evidence of climate change,\" the authors wrote, \"appears in every region and impacts are visible in every state.\""}
+       { "content": "\"Climate change, once considered an issue for a distant future, has moved firmly into the present,\" trumpeted the federal government’s latest <a href='http://nca2014.globalchange.gov'>National Climate Assessment</a>, released last week. \"Evidence of climate change,\" the authors wrote, \"appears in every region and impacts are visible in every state.\""}
     ]
   },
   {
@@ -66,14 +73,14 @@
   {
     "type": "blurb",
     "paragraphNum": 0,
-    "img": "assets/img/sarto.jpg",
-    "info": "Supervisor Dave Pine"
+    "img": "assets/img/dave_pine.png",
+    "info": "Dave Pine, San Mateo County Supervisor"
   },
   {
     "type": "blurb",
     "paragraphNum": 1,
-    "img": "assets/img/sarto.jpg",
-    "info": "Dr. Patrick Barnard"
+    "img": "assets/img/patrick_barnard.jpg",
+    "info": "Dr. Patrick Barnard, Research Geologist at the US Geological Survey"
   },
   {
     "type":"iframe",
@@ -115,7 +122,7 @@
     "type": "blurb",
     "paragraphNum": 3,
     "img": "assets/img/chris_field.jpg",
-    "info": "Chris Field"
+    "info": "Dr. Christopher Field, Stanford Professor and Co-Chair of the IPCC Working Group II Report"
   },
   {
     "type":"mast",
@@ -136,7 +143,7 @@
     "type": "blurb",
     "paragraphNum": 0,
     "img": "assets/img/susanne_moser.jpg",
-    "info": "Susanne Moser"
+    "info": "Dr. Susanne Moser, Social Science Research Fellow at Stanford University’s Woods Institute for the Environment"
   },
   {
     "type":"graphic",
@@ -149,14 +156,14 @@
        { "content": "Wetlands are going to be essential protection from sea level rise in the Bay because they act as natural sponges. They absorb water and then gradually release it, and also serve to slow down flood waters." },
        { "content": "\"It’s not going to do much good to protect your own bay shore if your neighbor’s bay shore is unprotected,\" said Pine. To raise funds for wetland restoration in all nine Bay Area Counties, the authority is proposing a special tax on the 2014 November ballot."},
        { "content": "Preliminary polling shows that the tax is likely to get the two thirds vote needed to pass according to Pine’s staff, but beyond raising and allocating funds, the authority does not have any legal power over cities’ land use plans. And that is the main issue in climate change policy in the Bay Area - there is no organizational framework for making regional decisions. Demetra McBride, the director of the Santa Clara Office of Sustainability and Climate Change, is hoping to change that." },
-       { "content": "Without a fundamental planning framework, \"I don’t think we can move forward helter skelter,\" said McBride. In June 2014, McBride will be concluding a project called Silicon Valley 2.0 that has been developing just such a framework. The goal of the project is to identify the key impacts of climate change and jumpstart regional policies to protect the most threatened areas in the region. The idea, McBride said, is to \"rank strategies, prioritize them and plan them out in a much more strategic and effective way.\""}
+       { "content": "Without a fundamental planning framework, \"I don’t think we can move forward helter skelter,\" said McBride. In June 2014, McBride will be concluding a project called <a href='http://www.sccgov.org/sites/osp/SV2/Pages/SV2.aspx'>Silicon Valley 2.0</a> that has been developing just such a framework. The goal of the project is to identify the key impacts of climate change and jumpstart regional policies to protect the most threatened areas in the region. The idea, McBride said, is to \"rank strategies, prioritize them and plan them out in a much more strategic and effective way.\""}
     ]
   },
   {
     "type": "blurb",
     "paragraphNum": 2,
-    "img": "assets/img/sarto.jpg",
-    "info": "Demetra McBride"
+    "img": "assets/img/demetra_mcbride.jpg",
+    "info": "Demetra McBride, Climate Action & Sustainability Director for Santa Clara County"
   },
   {
     "type":"hiddenSection",
@@ -194,7 +201,7 @@
     "type":"section",
     "paragraphs": [
        { "content": "Many cities along the Peninsula are capitalizing on the window of opportunity we still have in this \"era of responsibility\" on climate change issues. A first step for many cities is instituting local climate action plans, commonly abbreviated as CAPs. The wheels of local CAPs are turning towards adaptation, but in some cases, not quickly enough." },
-       { "content": "Some cities, like Sunnyvale, lag behind the others. At a meeting scheduled for May 20, the Sunnyvale city council will decide whether or not to adopt the city's first ever CAP. In the city’s draft of the CAP, the narrow mitigation focus on reducing carbon emissions stands out, while broader adaptation efforts are missing. And that narrow focus has the members of Sunnyvale's Sustainability Commission worried."},
+       { "content": "Some cities, like Sunnyvale, lag behind the others. At a meeting scheduled for May 20, the Sunnyvale city council will decide whether or not to adopt the city's first ever CAP. In the city’s draft of the CAP, the narrow mitigation focus on reducing carbon emissions stands out, while broader adaptation efforts are missing. And that narrow focus has the members of <a href='http://sunnyvale.ca.gov/CityGovernment/BoardsandCommissions/SustainabilityCommission.aspx'>Sunnyvale's Sustainability Commission</a> worried."},
        { "content": "Other cities along the Peninsula, such as Palo Alto, are at least trying to ramp up adaptation efforts. Palo Alto adopted its first CAP in 2007, making it one of the earliest cities in the nation to recognize the importance of climate change. But much like Sunnyvale, the Palo Alto CAP focuses almost exclusively on mitigation. In his annual update to the Palo Alto City Council on April 21st, Palo Alto’s Chief Sustainability Officer, Gil Friend, acknowledged the importance of adaptation. \"We’re exposed to these changes in a variety of ways and we need to plan for those,\" says Friend." },
        { "content": "Over the course of the coming year, Friend says he'll work with his team to rewrite the city's CAP with a focus on more fully embracing broad sustainability, as opposed to focusing more narrowly on mitigation or adaptation."}
     ]
@@ -202,8 +209,8 @@
   {
     "type": "blurb",
     "paragraphNum": 2,
-    "img": "assets/img/sarto.jpg",
-    "info": "Gil Friend"
+    "img": "assets/img/gil_friend.png",
+    "info": "Gil Friend, Palo Alto Chief Sustainability Officer"
   },
   {
     "type":"graphic",
@@ -221,8 +228,8 @@
   {
     "type": "blurb",
     "paragraphNum": 0,
-    "img": "assets/img/sarto.jpg",
-    "info": "Nik Sawe"
+    "img": "assets/img/nik_sawe.jpg",
+    "info": "Nik Sawe, PhD Student in Environment and Resources at Stanford University"
   },
   {
     "type":"graphic",
@@ -238,7 +245,14 @@
        { "content": "\"As sea levels and their accompanying risks continue to rise, so do the stakes of indecision,\" said Hearn. \"Sooner or later, we’re going to have our hands forced by our climate,\" he said. \"The water will bring you back to reality, and it really doesn’t play politics well.\""}
     ]
   },
-
+  { 
+    "type":"section",
+    "paragraphs": [
+      { "content": " "},
+      { "content": "---------------------------------------------------------------------------------"},
+      { "content": "<i>This article was conceived and executed by students in COMM177c/277c, an environmental journalism course at Stanford University. It was first published on May 15, 2014.</i>"}
+    ]
+  },
   {
     "type":"credits",
     "authors": [
